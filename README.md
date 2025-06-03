@@ -59,5 +59,5 @@ This project is inspired by deep learning applications in autonomous driving and
 This project is open-source and available under the MIT License.
 
 ---
-**Author:** Chirag N Vijay  
+**Author:** Chirag N Vijay , Gautham Gali
 
